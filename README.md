@@ -35,5 +35,13 @@ I'm a self-taught programmer!
 
 <br />
 
+### Join my discord server
+[<img align="left" alt="Discord" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png">][Discord]
+
+<br />
+
 ### Stats
 <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=CrazyCoderDEV&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=263238">
+
+
+[Discord]: https://discord.gg/Bm6U2smZkq
