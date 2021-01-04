@@ -1,7 +1,7 @@
 ## Hi there, I'm Aditya👋
 
 I'm a self-taught programmer!
-- 🔭 I am working on a app!
+- 🔭 I am working on an app!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other programmers!
 - 🥅 2020 Goals: Contribute more to Open Source projects
