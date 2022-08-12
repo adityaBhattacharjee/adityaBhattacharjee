@@ -1,23 +1,22 @@
 ## Hi there, I'm Aditya👋
 
 I'm a self-taught programmer!
-- 🔭 I am working on a multi-purpose discord bot!
-- 🌱 I’m currently learning Advanced django backend hosting.
+- 🔭 I am currently learning on CS50!
+- 🌱 I’m currently learning Problem Solving.
 - 👯 I’m looking to gain some knowledge from experienced programmers!
-- 🥅 2021 Goals: Make a website with fully-functional frontend and backend
+- 🥅 2022 Goals: Try to learn new technologies and make a strong base in programming.
 - ⚡ Fun fact: I love to draw and recite!
 
 ### Languages (Programming)
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
+<img align="left" alt="c" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/c.png" />
 
 <br />
 
 ### Frameworks
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
+<img align="left" alt="CS50" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/cs50.png" />
 <img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 
 <br />
@@ -34,11 +33,7 @@ I'm a self-taught programmer!
 <br />
 
 ### How to reach me:
-Discord: Aditya_Master#3659
+Discord: DoritosAdidasr#3659
 <br />
-Twitter: @AdityaB15585025
-
-<br />
-
-### Stats
-<img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=CrazyCoderDEV&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=263238">
+Twitter: @DoritosAdidas
+Website: https://aditya-website-dev.herokuapp.com/
