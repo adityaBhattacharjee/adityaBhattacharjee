@@ -33,7 +33,7 @@ I am a student and a programmer by hobby.
 <br />
 
 ### How to approach me:
-Discord: DoritosAdidasr#3659
+Discord: DoritosAdidas#3659
 <br />
 Twitter: @DoritosAdidas
 <br />
